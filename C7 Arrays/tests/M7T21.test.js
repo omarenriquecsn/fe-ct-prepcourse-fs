@@ -9,7 +9,7 @@ var ok = [
    'Noviembre',
    'Enero',
    'Mayo',
-   'Febrero',
+   'Febrero'
 ];
 var notOk = ['Marzo', 'Diciembre', 'Julio', 'Noviembre'];
 test('Debe retornar un arreglo con los meses requeridos', function () {
